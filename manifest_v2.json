@@ -1,0 +1,123 @@
+{
+  "item": {
+    "id": "com.skillman.sgs",
+    "restype": "quick_app",
+    "name": "三国杀",
+    "description": "三国杀好评如潮。商店、排行榜、丰富的武将和手牌机制，还可以跟好朋友一起玩。\n\n[ 已实现武将 ]：刘备、孙权、曹操、关羽、张飞、赵云、黄忠、马超、黄月英、陆逊、吕布、小乔、大乔、甘宁、郭嘉、华佗。\n\n[ 已实现手牌 ]：基本牌：杀 闪 桃 酒 药  锦囊牌：过河拆桥 火攻 借刀杀人 决斗 南蛮入侵 水淹七军 顺手牵羊 桃园结义 铁索连环 万箭齐发 五谷丰登 无懈可击 无中生有 \n延时锦囊： 兵粮寸断 乐不思蜀 闪电 武器牌： 雌雄双股剑 古锭刀 贯石斧 寒冰剑 麒麟弓 青钢剑 青龙偃月刀 丈八蛇矛 诸葛连弩 防具牌：八卦阵 仁王盾 藤甲 坐骑牌：赤兔 紫辞\n\nQQ交流群：869371495",
+    "preview": [
+      "media/9P-主页.png",
+      "media/9P-商店.png",
+      "media/9P-手牌图鉴.png",
+      "media/9P-手牌图鉴-手牌详细.png",
+      "media/9P-武将图鉴.png",
+      "media/9P-武将图鉴-武将详细.png",
+      "media/9P-选择玩法.png",
+      "media/9P-选择武将.png",
+      "media/9P-战斗页面.png",
+      "media/9P-战斗页面-五谷丰登.png",
+      "media/9P-战斗页面-武将详细.png",
+      "media/9P-战斗页面-选择武将.png",
+      "media/9-排行榜.png",
+      "media/9-武将图鉴-武将详细.png",
+      "media/9-战斗页面.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/分组_7.png",
+    "author": [
+      {
+        "name": "SkillMan",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "三国杀购买链接",
+      "url": "https://ifdian.net/item/3440a0907b6911f1913352540025c377",
+      "icon": "globe"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.4.0",
+      "file_name": "downloads/三国杀1.4.0(红米56).rpk",
+      "versionCode": 6
+    },
+    "xmrw5xring": {
+      "version": "1.4.0",
+      "file_name": "downloads/三国杀1.4.0(红米56).rpk",
+      "versionCode": 6
+    },
+    "xmrw6": {
+      "version": "1.4.0",
+      "file_name": "downloads/三国杀1.4.0(红米56).rpk",
+      "versionCode": 6
+    },
+    "xmb10": {
+      "version": "1.4.0",
+      "file_name": "downloads/三国杀1.4.0(米环10).rpk",
+      "versionCode": 6
+    },
+    "xmb10nfc": {
+      "version": "1.4.0",
+      "file_name": "downloads/三国杀1.4.0(米环10).rpk",
+      "versionCode": 6
+    },
+    "xmb10p": {
+      "version": "1.4.0",
+      "file_name": "downloads/三国杀1.4.0(米环910Pro).rpk",
+      "versionCode": 6
+    },
+    "xmb11": {
+      "version": "1.4.0",
+      "file_name": "downloads/三国杀1.4.0(米环10).rpk",
+      "versionCode": 6
+    },
+    "xmb11nfc": {
+      "version": "1.4.0",
+      "file_name": "downloads/三国杀1.4.0(米环10).rpk",
+      "versionCode": 6
+    },
+    "xmb9": {
+      "version": "1.4.0",
+      "file_name": "downloads/三国杀1.4.0(米环9).rpk",
+      "versionCode": 6
+    },
+    "xmb9p": {
+      "version": "1.4.0",
+      "file_name": "downloads/三国杀1.4.0(米环910Pro).rpk",
+      "versionCode": 6
+    },
+    "xmws3": {
+      "version": "1.4.0",
+      "file_name": "downloads/三国杀1.4.0(米表S345).rpk",
+      "versionCode": 6
+    },
+    "xmws4xring": {
+      "version": "1.4.0",
+      "file_name": "downloads/三国杀1.4.0(米表S345).rpk",
+      "versionCode": 6
+    },
+    "xmws441": {
+      "version": "1.4.0",
+      "file_name": "downloads/三国杀1.4.0(米表S345).rpk",
+      "versionCode": 6
+    },
+    "xmws4": {
+      "version": "1.4.0",
+      "file_name": "downloads/三国杀1.4.0(米表S345).rpk",
+      "versionCode": 6
+    },
+    "xmws541": {
+      "version": "1.4.0",
+      "file_name": "downloads/三国杀1.4.0(米表S345).rpk",
+      "versionCode": 6
+    },
+    "xmws5": {
+      "version": "1.4.0",
+      "file_name": "downloads/三国杀1.4.0(米表S345).rpk",
+      "versionCode": 6
+    }
+  },
+  "ext": {}
+}
