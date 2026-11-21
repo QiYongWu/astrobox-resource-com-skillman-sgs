@@ -125,5 +125,7 @@
       "versionCode": 7
     }
   },
-  "ext": {}
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
 }
