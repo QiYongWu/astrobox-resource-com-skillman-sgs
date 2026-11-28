@@ -3,7 +3,7 @@
     "id": "com.skillman.sgs",
     "restype": "quick_app",
     "name": "三国杀",
-    "description": "【已实现武将】\n刘备、孙权、曹操、关羽、张飞、赵云、黄忠、马超、黄月英、陆逊、吕布、小乔、大乔、甘宁、郭嘉、华佗、吕蒙、司马懿、卧龙诸葛、黄盖、夏侯惇、张辽、周瑜、典韦、魏延、貂蝉、庞统、华雄、孟获、孙尚香、许褚、张角、公孙瓒、于禁、徐晃、祝融、庞德。\n\n【已实现手牌/装备】\n基本牌：杀、闪、桃、酒、药、属性杀（雷杀、火杀等）\n\n锦囊牌：过河拆桥、火攻、借刀杀人、决斗、南蛮入侵、水淹七军、顺手牵羊、桃园结义、铁索连环、万箭齐发、五谷丰登、无懈可击、无中生有\n\n延时锦囊：兵粮寸断、乐不思蜀、闪电\n\n武器牌：雌雄双股剑、古锭刀、贯石斧、寒冰剑、麒麟弓、青钢剑、青龙偃月刀、丈八蛇矛、诸葛连弩\n\n防具牌：八卦阵、仁王盾、藤甲\n\n坐骑牌：赤兔、紫辞、+1马\n\n【已实现皮肤】\n赵云→一骑救主、小乔→红妆花月、貂蝉→花落凤仪、黄月英→七窍玲珑、刘备→六星耀帝、陆逊→谋定天下。\n\n【已实现排行榜】\n\nQQ交流群：869371495",
+    "description": "【已实现武将】\n刘备、孙权、曹操、关羽、张飞、赵云、黄忠、马超、黄月英、陆逊、吕布、小乔、大乔、甘宁、郭嘉、华佗、吕蒙、司马懿、卧龙诸葛、黄盖、夏侯惇、张辽、周瑜、典韦、魏延、貂蝉、庞统、华雄、孟获、孙尚香、许褚、张角、公孙瓒、于禁、徐晃、祝融、庞德、曹仁、蒋琬、鲁肃、韩当、田丰 和神武将 神·陈到。\n\n【已实现手牌/装备】\n基本牌：杀、闪、桃、酒、药、属性杀（雷杀、火杀等）\n\n锦囊牌：过河拆桥、火攻、借刀杀人、决斗、南蛮入侵、水淹七军、顺手牵羊、桃园结义、铁索连环、万箭齐发、五谷丰登、无懈可击、无中生有\n\n延时锦囊：兵粮寸断、乐不思蜀、闪电\n\n武器牌：雌雄双股剑、古锭刀、贯石斧、寒冰剑、麒麟弓、青钢剑、青龙偃月刀、丈八蛇矛、诸葛连弩\n\n防具牌：八卦阵、仁王盾、藤甲\n\n坐骑牌：赤兔、紫辞、+1马\n\n【已实现皮肤】\n赵云→一骑救主、小乔→红妆花月、貂蝉→花落凤仪、黄月英→七窍玲珑、刘备→六星耀帝、陆逊→谋定天下。\n\n【已实现排行榜】\n\nQQ交流群：869371495",
     "preview": [
       "media/9P-主页.png",
       "media/9P-商店.png",
@@ -45,84 +45,84 @@
   ],
   "downloads": {
     "xmrw5": {
-      "version": "1.5.0",
-      "file_name": "downloads/三国杀1.5.0(红米56).rpk",
-      "versionCode": 7
+      "version": "1.6.0",
+      "file_name": "downloads/三国杀1.6.0(红米56).rpk",
+      "versionCode": 8
     },
     "xmrw5xring": {
-      "version": "1.5.0",
-      "file_name": "downloads/三国杀1.5.0(红米56).rpk",
-      "versionCode": 7
+      "version": "1.6.0",
+      "file_name": "downloads/三国杀1.6.0(红米56).rpk",
+      "versionCode": 8
     },
     "xmrw6": {
-      "version": "1.5.0",
-      "file_name": "downloads/三国杀1.5.0(红米56).rpk",
-      "versionCode": 7
+      "version": "1.6.0",
+      "file_name": "downloads/三国杀1.6.0(红米56).rpk",
+      "versionCode": 8
     },
     "xmb10": {
-      "version": "1.5.0",
-      "file_name": "downloads/三国杀1.5.0(米环10).rpk",
-      "versionCode": 7
+      "version": "1.6.0",
+      "file_name": "downloads/三国杀1.6.0(米环10).rpk",
+      "versionCode": 8
     },
     "xmb10nfc": {
-      "version": "1.5.0",
-      "file_name": "downloads/三国杀1.5.0(米环10).rpk",
-      "versionCode": 7
+      "version": "1.6.0",
+      "file_name": "downloads/三国杀1.6.0(米环10).rpk",
+      "versionCode": 8
     },
     "xmb10p": {
-      "version": "1.5.0",
-      "file_name": "downloads/三国杀1.5.0(米环9Pro米环10Pro).rpk",
-      "versionCode": 7
+      "version": "1.6.0",
+      "file_name": "downloads/三国杀1.6.0(米环9Pro米环10Pro).rpk",
+      "versionCode": 8
     },
     "xmb11": {
-      "version": "1.5.0",
-      "file_name": "downloads/三国杀1.5.0(米环10).rpk",
-      "versionCode": 7
+      "version": "1.6.0",
+      "file_name": "downloads/三国杀1.6.0(米环10).rpk",
+      "versionCode": 8
     },
     "xmb11nfc": {
-      "version": "1.5.0",
-      "file_name": "downloads/三国杀1.5.0(米环10).rpk",
-      "versionCode": 7
+      "version": "1.6.0",
+      "file_name": "downloads/三国杀1.6.0(米环10).rpk",
+      "versionCode": 8
     },
     "xmb9": {
-      "version": "1.5.0",
-      "file_name": "downloads/三国杀1.5.0(米环9).rpk",
-      "versionCode": 7
+      "version": "1.6.0",
+      "file_name": "downloads/三国杀1.6.0(米环9).rpk",
+      "versionCode": 8
     },
     "xmb9p": {
-      "version": "1.5.0",
-      "file_name": "downloads/三国杀1.5.0(米环9Pro米环10Pro).rpk",
-      "versionCode": 7
+      "version": "1.6.0",
+      "file_name": "downloads/三国杀1.6.0(米环9Pro米环10Pro).rpk",
+      "versionCode": 8
     },
     "xmws3": {
-      "version": "1.5.0",
-      "file_name": "downloads/三国杀1.5.0(米表S345).rpk",
-      "versionCode": 7
+      "version": "1.6.0",
+      "file_name": "downloads/三国杀1.6.0(米表S345).rpk",
+      "versionCode": 8
     },
     "xmws4xring": {
-      "version": "1.5.0",
-      "file_name": "downloads/三国杀1.5.0(米表S345).rpk",
-      "versionCode": 7
+      "version": "1.6.0",
+      "file_name": "downloads/三国杀1.6.0(米表S345).rpk",
+      "versionCode": 8
     },
     "xmws441": {
-      "version": "1.5.0",
-      "file_name": "downloads/三国杀1.5.0(米表S345).rpk",
-      "versionCode": 7
+      "version": "1.6.0",
+      "file_name": "downloads/三国杀1.6.0(米表S345).rpk",
+      "versionCode": 8
     },
     "xmws4": {
-      "version": "1.5.0",
-      "file_name": "downloads/三国杀1.5.0(米表S345).rpk",
-      "versionCode": 7
+      "version": "1.6.0",
+      "file_name": "downloads/三国杀1.6.0(米表S345).rpk",
+      "versionCode": 8
     },
     "xmws541": {
-      "version": "1.5.0",
-      "file_name": "downloads/三国杀1.5.0(米表S345).rpk",
-      "versionCode": 7
+      "version": "1.6.0",
+      "file_name": "downloads/三国杀1.6.0(米表S345).rpk",
+      "versionCode": 8
     },
     "xmws5": {
-      "version": "1.5.0",
-      "file_name": "downloads/三国杀1.5.0(米表S345).rpk",
-      "versionCode": 7
+      "version": "1.6.0",
+      "file_name": "downloads/三国杀1.6.0(米表S345).rpk",
+      "versionCode": 8
     }
   },
   "ext": {
